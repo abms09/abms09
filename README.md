@@ -21,7 +21,7 @@ Passionate about building modern, scalable, and user-friendly web applications.
 <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Binu%20M%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:adarshbinums@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -269,7 +269,7 @@ Rental Website for
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:adarshbinums@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
